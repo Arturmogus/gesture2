@@ -1,0 +1,50 @@
+body
+{
+  color: maroon;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result , #image_result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+h2
+{
+  background-color: orange;
+  width:500px;
+}
+
+#div_right
+{
+  float:right;
+}
+
+label
+{
+  background-color: white;
+  color:darkslategrey
+}
+
+#titlearea
+{
+border-radius: 25%;
+}
+
